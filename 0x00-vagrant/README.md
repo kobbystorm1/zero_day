@@ -1,0 +1,3 @@
+**VAGRANT README**
+
+Satisfying requirements
